@@ -7,3 +7,10 @@
 # Enter height: 180
 # BMI is 20.06.
 
+weight = int(input("Please enter your weight kilograms: ")) # Takes weight from the user, stores it in a variable called weight and converts it to an integer(whole number)
+height = float(input("Please enter your height in cm: ")) # Takes height from the user, stores it in a variable called weight and converts it to a float(decimal number)
+height /= 100 # This converts users height input in cm to m
+
+bmi = round(weight/(height**2),2) # The bmi variable stores the users bmi and rounds it to 2 decimal places 
+print(f"Your BMI is {bmi}") # This prints out the users BMI using f strings
+
