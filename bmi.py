@@ -1,3 +1,4 @@
+# Author: David Gilkeson
 # 1. Write a program that calculates somebody's Body Mass Index (BMI).
 
 # The inputs are the person's height in centimetres and weight in kilograms.
@@ -11,6 +12,6 @@ weight = int(input("Please enter your weight kilograms: ")) # Takes weight from 
 height = float(input("Please enter your height in cm: ")) # Takes height from the user, stores it in a variable called weight and converts it to a float(decimal number)
 height /= 100 # This converts users height input in cm to m
 
-bmi = round(weight/(height**2),2) # The bmi variable stores the users bmi and rounds it to 2 decimal places 
+bmi = round(weight/(height**2),2) # The bmi variable stores the users bmi and the round function rounds it to 2 decimal places 
 print(f"Your BMI is {bmi}") # This prints out the users BMI using f strings
 
