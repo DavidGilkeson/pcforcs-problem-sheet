@@ -15,3 +15,17 @@ height /= 100 # This converts users height input in cm to m
 bmi = round(weight/(height**2),2) # The bmi variable stores the users bmi and the round function rounds it to 2 decimal places 
 print(f"Your BMI is {bmi}") # This prints out the users BMI using f strings
 
+
+# References
+
+# Input in Python
+# https://www.w3schools.com/python/ref_func_input.asp
+
+# How to take integer input in Python?
+# https://www.geeksforgeeks.org/how-to-take-integer-input-in-python/
+
+# How to calculate BMI
+# https://www.diabetes.ca/managing-my-diabetes/tools---resources/body-mass-index-(bmi)-calculator#:~:text=Body%20Mass%20Index%20is%20a,most%20adults%2018%2D65%20years
+
+# How to round a number in Python 
+# https://www.w3schools.com/python/ref_func_round.asp
