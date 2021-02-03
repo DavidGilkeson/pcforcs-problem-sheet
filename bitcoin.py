@@ -26,8 +26,8 @@ print(f'GBP rate today is £{gbp}')
 # References
 
 
-# https://www.w3schools.com/python/python_json.asp
+# Python JSON. 2021. Python JSON. [ONLINE] Available at: https://www.w3schools.com/python/python_json.asp. [Accessed 03 February 2021].
 
-# https://www.w3schools.com/python/python_dictionaries.asp
+# Python Dictionaries. 2021. Python Dictionaries. [ONLINE] Available at: https://www.w3schools.com/python/python_dictionaries.asp. [Accessed 03 February 2021].
 
-# https://stackoverflow.com/questions/43488137/how-to-do-a-dictionary-format-with-f-string-in-python-3-6
+# Stack Overflow. 2021. how to do a dictionary format with f-string in python 3.6? - Stack Overflow. [ONLINE] Available at: https://stackoverflow.com/questions/43488137/how-to-do-a-dictionary-format-with-f-string-in-python-3-6. [Accessed 03 February 2021].

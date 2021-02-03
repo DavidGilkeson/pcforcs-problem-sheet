@@ -18,14 +18,10 @@ print(f"Your BMI is {bmi}") # This prints out the users BMI using f strings
 
 # References
 
-# Input in Python
-# https://www.w3schools.com/python/ref_func_input.asp
+# Python input() Function. 2021. Python input() Function. [ONLINE] Available at: https://www.w3schools.com/python/ref_func_input.asp. [Accessed 27 January 2021].
 
-# How to take integer input in Python?
-# https://www.geeksforgeeks.org/how-to-take-integer-input-in-python/
+# GeeksforGeeks. 2021. How to take integer input in Python? - GeeksforGeeks. [ONLINE] Available at: https://www.geeksforgeeks.org/how-to-take-integer-input-in-python/. [Accessed 27 January 2021].
 
-# How to calculate BMI
-# https://www.diabetes.ca/managing-my-diabetes/tools---resources/body-mass-index-(bmi)-calculator#:~:text=Body%20Mass%20Index%20is%20a,most%20adults%2018%2D65%20years
+# DiabetesCanadaWebsite. 2021. Body Mass Index (BMI) Calculator - Diabetes Canada. [ONLINE] Available at: https://www.diabetes.ca/managing-my-diabetes/tools---resources/body-mass-index-(bmi)-calculator#:~:text=Body%20Mass%20Index%20is%20a,most%20adults%2018%2D65%20years. [Accessed 27 January 2021].
 
-# How to round a number in Python 
-# https://www.w3schools.com/python/ref_func_round.asp
+# Python round() Function. 2021. Python round() Function. [ONLINE] Available at: https://www.w3schools.com/python/ref_func_round.asp. [Accessed 27 January 2021].
