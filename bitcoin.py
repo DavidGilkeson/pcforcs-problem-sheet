@@ -30,4 +30,6 @@ print(f'GBP rate today is £{gbp}')
 
 # Python Dictionaries. 2021. Python Dictionaries. [ONLINE] Available at: https://www.w3schools.com/python/python_dictionaries.asp. [Accessed 03 February 2021].
 
+# www.oreilly.com. 2021. P35. [ONLINE] Available at: https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf. [Accessed 03 February 2021].
+
 # Stack Overflow. 2021. how to do a dictionary format with f-string in python 3.6? - Stack Overflow. [ONLINE] Available at: https://stackoverflow.com/questions/43488137/how-to-do-a-dictionary-format-with-f-string-in-python-3-6. [Accessed 03 February 2021].
