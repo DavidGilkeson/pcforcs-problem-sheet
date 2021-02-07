@@ -16,11 +16,11 @@ def collatz(number):                                  # Defines a function calle
   
   print(number, end=' ')                              # Prints the first number and end=' ' prints a space and the number in a row
   while number != 1:                                  # While loop will run until the condition is met and then it will break
-    if number % 2 == 0:                               # Using the modulo operator(%) to checks if number is even.
+    if number % 2 == 0:                               # Using the modulo operator(%) to check if number is even.
       number //= 2                                    # If the number is even, then it divided by 2
       print(number, end=' ')                          # Prints the number with a space and on the same line
     else:
-      number = 3 * number + 1                         # Number is multiplied by 3 and 1 is added
+      number = 3 * number + 1                         # If Number is odd, it is multiplied by 3 and 1 is added
       print(number, end=' ')                          # Prints the number with a space and on the same line     
 collatz(n)                                            # Function is called  
 
