@@ -6,36 +6,25 @@
 
 # Have the program end if the current value is one.
 
-# $ python collatz.py
-
 # Please enter a positive integer: 10
 
 # 10 5 16 8 4 2 1
 
-n = int(input("Please enter a positive number: ")) # Takes input from user
+n = int(input("Please enter a positive number: "))    # Takes input from user
   
-def collatz(number): # Defines a function called collatz
+def collatz(number):                                  # Defines a function called collatz
   
-  print(number, end=' ') # Prints the first number and end=' ' prints a space and the number in a row
-    
-  while number != 1: # While loop will run until the condition is met and then it will break
-    
-    if number % 2 == 0: # Using the modulo operator(%) to checks if number is even.
-      number //= 2 # If the number is even, then it divided by 2
-      print(number, end=' ') # Prints the number with a space and on the same line
- 
-
+  print(number, end=' ')                              # Prints the first number and end=' ' prints a space and the number in a row
+  while number != 1:                                  # While loop will run until the condition is met and then it will break
+    if number % 2 == 0:                               # Using the modulo operator(%) to checks if number is even.
+      number //= 2                                    # If the number is even, then it divided by 2
+      print(number, end=' ')                          # Prints the number with a space and on the same line
     else:
-      number = 3 * number + 1 # Number is multiplied by 3 and 1 is added
-      print(number, end=' ') # Prints the number with a space and on the same line
-       
-
-collatz(n) # Function is called  
+      number = 3 * number + 1                         # Number is multiplied by 3 and 1 is added
+      print(number, end=' ')                          # Prints the number with a space and on the same line     
+collatz(n)                                            # Function is called  
 
 
-
-
-  
   # References
   
   # Python Conditions. 2021. Python Conditions. [ONLINE] Available at: https://www.w3schools.com/python/python_conditions.asp. [Accessed 07 February 2021].
