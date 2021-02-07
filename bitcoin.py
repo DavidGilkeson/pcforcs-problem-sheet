@@ -6,19 +6,19 @@
 import requests
 # import json
 
-# Code that pulls data from the coin desk api and returns it in JSON 
-url = "https://api.coindesk.com/v1/bpi/currentprice.json"
+
+url = "https://api.coindesk.com/v1/bpi/currentprice.json"       # Code that pulls data from the coin desk api and returns it in JSON 
 returnedData = requests.get(url)
 bitCoinDict = returnedData.json()
-# print(json.dumps(bitCoinDict, indent = 4)) # This formats the code so it can be easily understood
+# print(json.dumps(bitCoinDict, indent = 4))                    # This formats the code so it can be easily understood
 
-# This stores the rate of the 3 currencies and rounds them to 2 decimal places
-usd = bitCoinDict["bpi"]["USD"]["rate"]
+
+usd = bitCoinDict["bpi"]["USD"]["rate"]                         # These variables store the rate of the 3 currencies 
 eur = bitCoinDict["bpi"]["EUR"]["rate"]
 gbp = bitCoinDict["bpi"]["GBP"]["rate"]
 
-# Using f strings to format the code and print it to the console
-print(f'Bitcoin rate in USD today is ${usd}')
+
+print(f'Bitcoin rate in USD today is ${usd}')                   # Using f strings to format the code and print it to the console
 print(f'Bitcoin rate in EUR today is €{eur}')
 print(f'Bitcoin rate in GBP today is £{gbp}')
 
