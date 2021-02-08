@@ -26,8 +26,8 @@ bitCoinDict = returnedData.json()
 
 
 for x in bitCoinDict['bpi'].items():                              # This loops through the bpi items
-  key, value = x                                                  # The keys and values are stored in x
-  print(f'Bitcoin rate in {key} today is {value["rate"]}')        # This prints the key and value of rate to the console
+  key, value = x                                                  # The keys and values in x are stored in the key and value variable
+  print(f'Bitcoin rate in {key} today is {value["rate"]}')        # This prints the key and value rate to the console
 
 # References
 
