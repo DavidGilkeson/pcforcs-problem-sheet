@@ -23,6 +23,7 @@ Click on the name of the problem below to bring you directly to it.
 
 ### References
 
+###### Stack Overflow. 2021. python - Iterating through a JSON object - Stack Overflow. [ONLINE] Available at: https://stackoverflow.com/questions/2733813/iterating-through-a-json-object. [Accessed 08 February 2021].
 ###### Python JSON. 2021. Python JSON. [ONLINE] Available at: https://www.w3schools.com/python/python_json.asp. [Accessed 03 February 2021].
 
 ###### Python Dictionaries. 2021. Python Dictionaries. [ONLINE] Available at: https://www.w3schools.com/python/python_dictionaries.asp. [Accessed 03 February 2021].
