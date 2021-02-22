@@ -4,7 +4,6 @@
 
 # The program should take the filename from an argument on the command line.
 
-# Opens, reads and closes the file
 with open('moby-dick.txt', 'r', encoding='utf-8') as file:      # opens the txt file and 'r' reads the file. Encoding stops the error I was having with is referenced at the bottom
     print(file.read().count('e'))
 
