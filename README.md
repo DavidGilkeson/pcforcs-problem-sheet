@@ -61,3 +61,15 @@ Click on the name of the problem below to bring you directly to it.
 ###### GeeksforGeeks. 2021. Find root of a number using Newton's method - GeeksforGeeks. [ONLINE] Available at: https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/. [Accessed 17 February 2021].
 
 ###### Sıddık Açıl. 2021. Newton Square Root Method in Python | by Sıddık Açıl | Medium. [ONLINE] Available at: https://medium.com/@sddkal/newton-square-root-method-in-python-270853e9185d. [Accessed 17 February 2021].
+
+## Problem 4
+
+[Es]()
+
+### References
+
+###### GeeksforGeeks. 2021. with statement in Python - GeeksforGeeks. [ONLINE] Available at: https://www.geeksforgeeks.org/with-statement-in-python/. [Accessed 22 February 2021].
+
+###### Python File Open. 2021. Python File Open. [ONLINE] Available at: https://www.w3schools.com/python/python_file_open.asp. [Accessed 22 February 2021].
+
+###### Stack Overflow. 2021. python - How to fix ''UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 29815: character maps to ''? - Stack Overflow. [ONLINE] Available at: https://stackoverflow.com/questions/49562499/how-to-fix-unicodedecodeerror-charmap-codec-cant-decode-byte-0x9d-in-posit. [Accessed 22 February 2021].
