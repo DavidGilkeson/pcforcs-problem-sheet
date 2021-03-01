@@ -14,4 +14,6 @@ with open('moby-dick.txt', 'r', encoding='utf-8') as file:      # opens the txt 
 
 # Python File Open. 2021. Python File Open. [ONLINE] Available at: https://www.w3schools.com/python/python_file_open.asp. [Accessed 22 February 2021].
 
+# Real Python. 2021. Working With Files in Python – Real Python. [ONLINE] Available at: https://realpython.com/working-with-files-in-python/. [Accessed 22 February 2021].
+
 # Stack Overflow. 2021. python - How to fix ''UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 29815: character maps to ''? - Stack Overflow. [ONLINE] Available at: https://stackoverflow.com/questions/49562499/how-to-fix-unicodedecodeerror-charmap-codec-cant-decode-byte-0x9d-in-posit. [Accessed 22 February 2021].

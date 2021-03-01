@@ -1,5 +1,4 @@
 # Author: David Gilkeson
-
 # 1. Write a program (bitcoin.py) that outputs the current bitcoin price in US Dollars. You may use the code snippet below to get a Dict object that contains the price.
 # 2. Extra output all the price in the three currencies, in a neat way.
 
