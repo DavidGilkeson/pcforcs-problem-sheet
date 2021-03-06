@@ -73,3 +73,13 @@ Click on the name of the problem below to bring you directly to it.
 ###### Python File Open. 2021. Python File Open. [ONLINE] Available at: https://www.w3schools.com/python/python_file_open.asp. [Accessed 22 February 2021].
 
 ###### Stack Overflow. 2021. python - How to fix ''UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 29815: character maps to ''? - Stack Overflow. [ONLINE] Available at: https://stackoverflow.com/questions/49562499/how-to-fix-unicodedecodeerror-charmap-codec-cant-decode-byte-0x9d-in-posit. [Accessed 22 February 2021].
+
+[Exact URL](https://github.com/DavidGilkeson/pforcs-problem-sheet/blob/main/extract-url.py)
+
+# References
+
+###### GeeksforGeeks. 2021. Python | Check for URL in a String - GeeksforGeeks. [ONLINE] Available at: https://www.geeksforgeeks.org/python-check-url-string/. [Accessed 04 March 2021].
+
+###### Python RegEx. 2021. Python RegEx. [ONLINE] Available at: https://www.w3schools.com/python/python_regex.asp. [Accessed 03 March 2021]
+
+###### Real Python. 2021. Regular Expressions: Regexes in Python (Part 1) – Real Python. [ONLINE] Available at: https://realpython.com/regex-python/. [Accessed 03 March 2021].

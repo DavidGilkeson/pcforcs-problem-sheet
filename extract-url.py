@@ -37,7 +37,7 @@ path = ""
 with open (path + filename, "r") as logfile:
   count = 0
   for line in logfile:                            # Loops through the log file
-    regex = ('(?:(GET|POST) )(\S+)')              # Stores the regex
+    regex = ('(?:(GET|POST) )(\S+)')               # Stores the regex
     url = re.findall(regex, line)                 # Uses the findall method and stores it in url variable
     print(url[0])                                 # Prints out a list of URLs
     count += 1                                    # Adds one to the count each time
