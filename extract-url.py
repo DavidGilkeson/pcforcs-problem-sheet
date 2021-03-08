@@ -31,18 +31,37 @@
 
 import re
 
-filename = "sample.log"
-path = ""
+filename = "access.log"
+dictionary = {}
+list_resources = []
+count = 0
 
-with open (path + filename, "r") as logfile:
-  count = 0
+with open (filename, "r") as logfile:
+
   for line in logfile:                            # Loops through the log file
-    regex = ('(?:(GET|POST) )(\S+)')               # Stores the regex
-    url = re.findall(regex, line)                 # Uses the findall method and stores it in url variable
-    print(url[0])                                 # Prints out a list of URLs
-    count += 1                                    # Adds one to the count each time
+    regex = ('(?:(GET|POST) )(\S+)')              # Stores the regex
+    url = re.findall(regex, line)[0][1]           # Uses the findall method and stores it in url variable
+    list_resources.append(url)                    # Adds url to the list 
+          
+    resource = re.split("\?", url)[0]             # Splits the url 
+    parameters = re.split("\?", url)[1]           # Splits it into parameters
+
+    parameter = re.split("&", parameters)         
+    param_dict = {}
+
+    for i in parameter:
+      key = re.split('=', i)[0]
+      value = re.split('=', i)[1]
+      param_dict[key] = value
+
+    dictionary[count] = {'resource': resource, 'parameters': param_dict}
+    count += 1
+
+# print(list_resources)
+
+print(dictionary)
     
-print("fin ", count)
+
 
 
 # References
