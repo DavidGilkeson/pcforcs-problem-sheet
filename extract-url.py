@@ -31,12 +31,12 @@
 
 import re
 
-filename = "access.log"
-dictionary = {}
+filename = "access.log"                           # Name of the file which will be queried
+dictionary = {}                                   # Initiate dictionary, list and count
 list_resources = []
 count = 0
 
-with open (filename, "r") as logfile:
+with open (filename, "r") as logfile:             # Opens the file for reading
 
   for line in logfile:                            # Loops through the log file
     regex = ('(?:(GET|POST) )(\S+)')              # Stores the regex
@@ -46,20 +46,20 @@ with open (filename, "r") as logfile:
     resource = re.split("\?", url)[0]             # Splits the url 
     parameters = re.split("\?", url)[1]           # Splits it into parameters
 
-    parameter = re.split("&", parameters)         
+    parameter = re.split("&", parameters)         # Splits it to key value pairs
     param_dict = {}
 
-    for i in parameter:
+    for i in parameter:                           # Iterates through each key value pair and adds them to the dictionary
       key = re.split('=', i)[0]
       value = re.split('=', i)[1]
       param_dict[key] = value
 
     dictionary[count] = {'resource': resource, 'parameters': param_dict}
-    count += 1
+    count += 1                                    # Adds 1 to the count so each pair has a unique id
 
-# print(list_resources)
+print(list_resources)                             # Prints the resources to the first part of the question
 
-print(dictionary)
+print(dictionary)                                 # Prints the dictionary to answer the second part
     
 
 
@@ -67,6 +67,8 @@ print(dictionary)
 # References
 
 # GeeksforGeeks. 2021. Python | Check for URL in a String - GeeksforGeeks. [ONLINE] Available at: https://www.geeksforgeeks.org/python-check-url-string/. [Accessed 04 March 2021].
+
+# Jonny Fox. 2021. Regex tutorial — A quick cheatsheet by examples | by Jonny Fox | Factory Mind | Medium. [ONLINE] Available at: https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285. [Accessed 09 March 2021].
 
 # Python RegEx. 2021. Python RegEx. [ONLINE] Available at: https://www.w3schools.com/python/python_regex.asp. [Accessed 03 March 2021]
 

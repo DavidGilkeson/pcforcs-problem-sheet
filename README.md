@@ -82,6 +82,8 @@ Click on the name of the problem below to bring you directly to it.
 
 ###### GeeksforGeeks. 2021. Python | Check for URL in a String - GeeksforGeeks. [ONLINE] Available at: https://www.geeksforgeeks.org/python-check-url-string/. [Accessed 04 March 2021].
 
+###### Jonny Fox. 2021. Regex tutorial — A quick cheatsheet by examples | by Jonny Fox | Factory Mind | Medium. [ONLINE] Available at: https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285. [Accessed 09 March 2021].
+
 ###### Python RegEx. 2021. Python RegEx. [ONLINE] Available at: https://www.w3schools.com/python/python_regex.asp. [Accessed 03 March 2021]
 
 ###### Real Python. 2021. Regular Expressions: Regexes in Python (Part 1) – Real Python. [ONLINE] Available at: https://realpython.com/regex-python/. [Accessed 03 March 2021].
