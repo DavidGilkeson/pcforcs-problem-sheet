@@ -1,4 +1,4 @@
-# Author David Gilkeson
+# Author: David Gilkeson
 
 # Write a program that reads in a text file and outputs the number of e's it contains.
 

@@ -78,7 +78,7 @@ Click on the name of the problem below to bring you directly to it.
 
 [Exact URL](https://github.com/DavidGilkeson/pforcs-problem-sheet/blob/main/extract-url.py)
 
-# References
+### References
 
 ###### GeeksforGeeks. 2021. Python | Check for URL in a String - GeeksforGeeks. [ONLINE] Available at: https://www.geeksforgeeks.org/python-check-url-string/. [Accessed 04 March 2021].
 
