@@ -5,3 +5,7 @@
 
 # Some marks will be given for making the plot look nice.
 
+
+# References
+
+# NumPy Getting Started. 2021. NumPy Getting Started. [ONLINE] Available at: https://www.w3schools.com/python/numpy_getting_started.asp. [Accessed 13 March 2021].
