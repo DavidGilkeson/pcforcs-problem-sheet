@@ -62,7 +62,7 @@ Click on the name of the problem below to bring you directly to it.
 
 ###### Sıddık Açıl. 2021. Newton Square Root Method in Python | by Sıddık Açıl | Medium. [ONLINE] Available at: https://medium.com/@sddkal/newton-square-root-method-in-python-270853e9185d. [Accessed 17 February 2021].
 
-## Problem 4
+## Problem 5
 
 [Es](https://github.com/DavidGilkeson/pforcs-problem-sheet/blob/main/es.py)
 
@@ -74,7 +74,7 @@ Click on the name of the problem below to bring you directly to it.
 
 ###### Stack Overflow. 2021. python - How to fix ''UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 29815: character maps to ''? - Stack Overflow. [ONLINE] Available at: https://stackoverflow.com/questions/49562499/how-to-fix-unicodedecodeerror-charmap-codec-cant-decode-byte-0x9d-in-posit. [Accessed 22 February 2021].
 
-## Problem 5
+## Problem 6
 
 [Exact URL](https://github.com/DavidGilkeson/pforcs-problem-sheet/blob/main/extract-url.py)
 
@@ -87,3 +87,17 @@ Click on the name of the problem below to bring you directly to it.
 ###### Python RegEx. 2021. Python RegEx. [ONLINE] Available at: https://www.w3schools.com/python/python_regex.asp. [Accessed 03 March 2021]
 
 ###### Real Python. 2021. Regular Expressions: Regexes in Python (Part 1) – Real Python. [ONLINE] Available at: https://realpython.com/regex-python/. [Accessed 03 March 2021].
+
+## Problem 7
+
+[Plot Task](https://github.com/DavidGilkeson/pforcs-problem-sheet/blob/main/plottask.py)
+
+### References
+
+###### Matplotlib Getting Started. 2021. Matplotlib Getting Started. [ONLINE] Available at: https://www.w3schools.com/python/matplotlib_getting_started.asp. [Accessed 15 March 2021].
+
+###### Matplotlib Line. 2021. Matplotlib Line. [ONLINE] Available at: https://www.w3schools.com/python/matplotlib_line.asp. [Accessed 15 March 2021].
+
+###### Matplotlib Markers. 2021. Matplotlib Markers. [ONLINE] Available at: https://www.w3schools.com/python/matplotlib_markers.asp. [Accessed 15 March 2021].
+
+###### NumPy Getting Started. 2021. NumPy Getting Started. [ONLINE] Available at: https://www.w3schools.com/python/numpy_getting_started.asp. [Accessed 13 March 2021].
