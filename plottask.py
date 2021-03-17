@@ -12,7 +12,7 @@ fx = x
 gx = x * x
 hx = x ** 3
 
-# plot the functions and beautify the graph
+# plot the functions and beautify the plot
 plt.plot(x, fx, linestyle = "dotted", color = "green", marker = "o", ms = 8, label="f(x)=x")
 plt.plot(x, gx, linestyle = "dashed",color = "cyan",marker = "o", ms = 8, label="g(x)=x^2")
 plt.plot(x,hx, linestyle = "solid", color = "black", marker = "o", ms = 8, label="h(x)=x^3")
