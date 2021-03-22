@@ -1,7 +1,4 @@
 # Author: David Gilkeson
-# ok this is a tricky one, but the lab does a bit of this for you.
-
-# (I am not correcting these tasks until the end of the semester)
 
 # I want to find which sessionId downloaded the most data
 
@@ -14,3 +11,20 @@
 # Extra:
 
 # Work out the amount of data each sessionId downloaded in any given day
+
+
+import pandas as pd
+import re
+import matplotlib.pyplot as plt
+
+filename = 'access.log'
+
+df = pd.read_table(filename)               # Reads in access log into a dataframe
+
+print(df.head(3))
+
+
+
+# References
+
+# Pandas DataFrames. 2021. Pandas DataFrames. [ONLINE] Available at: https://www.w3schools.com/python/pandas/pandas_dataframes.asp. [Accessed 22 March 2021].
