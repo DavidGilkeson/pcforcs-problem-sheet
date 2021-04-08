@@ -107,10 +107,10 @@ Click on the name of the problem below to bring you directly to it.
 
 # References
 
-# GeeksforGeeks. 2021. Python | Pandas dataframe.resample() - GeeksforGeeks. [ONLINE] Available at: https://www.geeksforgeeks.org/python-pandas-dataframe-resample/. [Accessed 26 March 2021].
+###### GeeksforGeeks. 2021. Python | Pandas dataframe.resample() - GeeksforGeeks. [ONLINE] Available at: https://www.geeksforgeeks.org/python-pandas-dataframe-resample/. [Accessed 26 March 2021].
 
-# Matplotlib Bars. 2021. Matplotlib Bars. [ONLINE] Available at: https://www.w3schools.com/python/matplotlib_bars.asp. [Accessed 26 March 2021].
+###### Matplotlib Bars. 2021. Matplotlib Bars. [ONLINE] Available at: https://www.w3schools.com/python/matplotlib_bars.asp. [Accessed 26 March 2021].
 
-# Pandas DataFrames. 2021. Pandas DataFrames. [ONLINE] Available at: https://www.w3schools.com/python/pandas/pandas_dataframes.asp. [Accessed 22 March 2021].
+###### Pandas DataFrames. 2021. Pandas DataFrames. [ONLINE] Available at: https://www.w3schools.com/python/pandas/pandas_dataframes.asp. [Accessed 22 March 2021].
 
-# Real Python. 2021. Pandas GroupBy: Your Guide to Grouping Data in Python – Real Python. [ONLINE] Available at: https://realpython.com/pandas-groupby/. [Accessed 25 March 2021].
+###### Real Python. 2021. Pandas GroupBy: Your Guide to Grouping Data in Python – Real Python. [ONLINE] Available at: https://realpython.com/pandas-groupby/. [Accessed 25 March 2021].
