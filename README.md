@@ -105,7 +105,7 @@ Click on the name of the problem below to bring you directly to it.
 ## Problem 8
 [SessionID](https://github.com/DavidGilkeson/pforcs-problem-sheet/blob/main/session_id.py)
 
-# References
+### References
 
 ###### GeeksforGeeks. 2021. Python | Pandas dataframe.resample() - GeeksforGeeks. [ONLINE] Available at: https://www.geeksforgeeks.org/python-pandas-dataframe-resample/. [Accessed 26 March 2021].
 
@@ -114,3 +114,23 @@ Click on the name of the problem below to bring you directly to it.
 ###### Pandas DataFrames. 2021. Pandas DataFrames. [ONLINE] Available at: https://www.w3schools.com/python/pandas/pandas_dataframes.asp. [Accessed 22 March 2021].
 
 ###### Real Python. 2021. Pandas GroupBy: Your Guide to Grouping Data in Python – Real Python. [ONLINE] Available at: https://realpython.com/pandas-groupby/. [Accessed 25 March 2021].
+
+
+## Problem 9
+
+[Bulletproof](https://github.com/DavidGilkeson/pforcs-problem-sheet/blob/main/bullet_proof.py)
+### References
+
+###### GeeksforGeeks. 2021. Python | Sectional subset sum in list - GeeksforGeeks. [ONLINE] Available at: https://www.geeksforgeeks.org/python-sectional-subset-sum-in-list/. [Accessed 03 April 2021].
+
+###### logging — Logging facility for Python — Python 3.9.4 documentation. 2021. [ONLINE] Available at: https://docs.python.org/3/library/logging.html#logrecord-attributes. [Accessed 03 April 2021].
+
+###### Python Examples of logging.basicConfig. 2021. Python Examples of logging.basicConfig. [ONLINE] Available at: https://www.programcreek.com/python/example/136/logging.basicConfig. [Accessed 01 April 2021].
+
+###### Python isinstance() Function. 2021. Python isinstance() Function. [ONLINE] Available at: https://www.w3schools.com/python/ref_func_isinstance.asp. [Accessed 02 April 2021].
+
+###### Real Python. 2021. Logging in Python – Real Python. [ONLINE] Available at: https://realpython.com/python-logging/. [Accessed 02 April 2021].
+
+###### Real Python. 2021. Python Exceptions: An Introduction – Real Python. [ONLINE] Available at: https://realpython.com/python-exceptions/. [Accessed 02 April 2021].
+
+###### YouTube. 2021. Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting - YouTube. [ONLINE] Available at: https://www.youtube.com/watch?v=-ARI4Cz-awo. [Accessed 02 April 2021].
